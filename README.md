@@ -49,7 +49,6 @@ This project focuses on:
 4. Match all pairs to complete the level.
 5. Try to finish in fewer moves and less time!
 
----
 
-## 📂 Project Structure
+
 
